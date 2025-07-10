@@ -1,6 +1,6 @@
 # IT Developments - Project 4
 
-### Welcome to my CMPG323 module project 4! This repository contains a brief overview of the project.
+### Welcome to my IT Developments project 4! This repository contains a brief overview of the project.
 
 ---
 
@@ -34,7 +34,7 @@ The bot will perform the following actions for each record in the test data file
 
 ---
 # Reference List
-- CMPG323 - IT Developments 2023. ***3 October Project 4 Explained***. YouTube. Available at: [https://www.youtube.com/watch?v=5s1-p1okZoc]
+- IT Developments 2023. ***3 October Project 4 Explained***. YouTube. Available at: [https://www.youtube.com/watch?v=5s1-p1okZoc]
 - UiPath RPA Learners 2022. ***UiPath : How to read excel data and store into Data table***. Available at: [https://www.youtube.com/watch?v=5r1cBumKSi4]
 - SolveUnsolved 2023. ***RPA UAT testing & UAT test document | User Acceptance Testing | RPA Tutorial | UAT | TechieOnWheels***. Available at: [https://www.youtube.com/watch?v=WjKeKFcUcvs]
 
